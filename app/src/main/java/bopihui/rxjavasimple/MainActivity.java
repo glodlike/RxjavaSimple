@@ -13,6 +13,10 @@ import bopihui.rxjavasimple.serapi.MyModel;
 import rx.Observer;
 import rx.android.schedulers.AndroidSchedulers;
 
+/**
+ * 第二次提交
+ */
+
 public class MainActivity extends Activity {
     private Button   testBtn;   //测试按钮
     private TextView result;    //测试结果
